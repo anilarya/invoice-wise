@@ -1,5 +1,5 @@
 # invoice-wise
-
+Use node version >=8
 ## Project setup
 ```
 npm install
